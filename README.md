@@ -1,2 +1,2 @@
 # AI-Based-Disease-Prediction-Using-Machine-Learning
- AI-powered web app for predicting Diabetes, Heart Disease &amp; Liver Disease using Machine Learning. Built with Python, Streamlit &amp; Scikit-learn. Features user authentication, real-time predictions &amp; interactive UI. Trained on real medical datasets.
+AI Based Disease Prediction System is a Machine Learning-powered web application built with Python and Streamlit. It predicts the risk of Diabetes, Heart Disease, and Liver Disease based on medical parameters entered by the user. The app features user authentication, real-time predictions, and an interactive UI. Trained on real-world medical datasets using Logistic Regression. 
